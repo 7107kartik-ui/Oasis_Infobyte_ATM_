@@ -1,1 +1,1 @@
-# Oasis_Infobyte_ATM_
+I recently completed a project on building an ATM System in Java as part of my internship. The project involved creating essential banking features such as account creation, user login, balance inquiry, cash withdrawal, deposit, and transaction history — all executed through a simple and secure terminal-based interface. This project helped me strengthen my skills in Java programming, database connectivity, and object-oriented design.
